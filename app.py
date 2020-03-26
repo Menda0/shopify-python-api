@@ -15,6 +15,7 @@ VERSION = os.environ.get("VERSION", "1.0.0")
 PORT = int(os.environ.get("PORT", 5000))
 
 print(f"VERSION: {VERSION}")
+print(f"PORT: {PORT}")
 
 API_PREFIX = "/v1"
 
