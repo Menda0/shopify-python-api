@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pony = "*"
+injector = "*"
+passlib = "*"
+Flask = "*"
+Flask-RESTful = "*"
+Flask-Cors = "*"
+Flask-Injector = "*"
+Flask-JWT-Extended = "*"
+PyJWT = "*"
+requests = "*"
+mysql-connector-python = "*"
+pymysql = "*"
+cryptography = "*"
+python-dotenv "*"
+
+[requires]
+python_version = "3.7"
