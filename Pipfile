@@ -19,7 +19,7 @@ requests = "*"
 mysql-connector-python = "*"
 pymysql = "*"
 cryptography = "*"
-python-dotenv "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
